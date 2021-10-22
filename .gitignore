@@ -1,0 +1,11 @@
+temp/
+venv/
+__pycache__/
+.svn/
+.idea/
+build/
+dist/
+~$*
+~*.*
+.DS_Store
+.~*
